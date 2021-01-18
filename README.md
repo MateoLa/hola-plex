@@ -8,7 +8,7 @@ You need to have docker and docker-compose installed in your host machine.
 
 ##Instructions to reproduce:
 
-1) In any folder clone the repo:
+1) cd into any folder to clone the repo:
 ```bash
 git clone https://github.com/MateoLa/hola-plex.git
 ```

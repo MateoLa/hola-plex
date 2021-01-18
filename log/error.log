@@ -1,3 +1,0 @@
-2021/01/18 04:38:41 [emerg] 1#1: host not found in upstream "plex:32400" in /etc/nginx/conf.d/nginx.conf:2
-2021/01/18 04:38:51 [emerg] 1#1: host not found in upstream "plex:32400" in /etc/nginx/conf.d/nginx.conf:2
-2021/01/18 04:39:26 [emerg] 1#1: host not found in upstream "plex:32400" in /etc/nginx/conf.d/nginx.conf:2
