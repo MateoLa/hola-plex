@@ -39,5 +39,6 @@ Navigate to: https://localhost
 
 Now you will see your "self" secured page.
 
-## Why the nginx_new container is upstream capable and the nginx container don't?
+
+## Why the nginx_new container is ssl capable and the nginx container don't?
 
