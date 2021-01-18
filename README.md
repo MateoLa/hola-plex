@@ -40,5 +40,5 @@ Navigate to: https://localhost
 Now you will see your "self" secured page.
 
 
-## Why the nginx_new container is ssl capable and the nginx container don't if both share the same nginx.conf?
+## Why the nginx_new container is ssl capable and the nginx container don't if both use the same nginx.conf file?
 
