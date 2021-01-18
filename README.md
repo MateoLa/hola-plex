@@ -6,7 +6,7 @@ Trying to secure Hola-Plex:
 
 You need to have docker and docker-compose installed in your host machine.
 
-##Instructions to reproduce:
+## Instructions to reproduce:
 
 1) cd into any folder to clone the repo:
 ```bash
