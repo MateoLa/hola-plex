@@ -19,7 +19,7 @@ services:
     image: nginx:alpine
     ports:
       - '80:80'
-      - '433:433'
+      - '443:443'
     volumes:
       - ./nginx:/etc/nginx/conf.d
       - ./log:/var/log/nginx
